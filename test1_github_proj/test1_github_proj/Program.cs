@@ -14,7 +14,7 @@ namespace test1_github_proj
             Console.WriteLine("World");
             Console.WriteLine("I'm here");
             Console.WriteLine("Me too");
-            Console.WriteLine("Realy?");
+            Console.WriteLine("Really?");
             Console.ReadLine();
         }
     }
