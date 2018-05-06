@@ -10,11 +10,7 @@ namespace test1_github_proj
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
-            Console.WriteLine("World");
-            Console.WriteLine("I'm here");
-            Console.WriteLine("Me too");
-            Console.WriteLine("Really?");
+            Console.WriteLine("Hello World I`m here Me too Really?");
             Console.ReadLine();
         }
     }
