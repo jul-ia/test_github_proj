@@ -12,6 +12,7 @@ namespace test1_github_proj
         {
             Console.WriteLine("Hello");
             Console.WriteLine("World");
+            Console.WriteLine("I'm here");
             Console.ReadLine();
         }
     }
